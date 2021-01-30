@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/meli-food-benefit/static/js/main.ad58346f.chunk.js",
+    "main.js.map": "/meli-food-benefit/static/js/main.ad58346f.chunk.js.map",
+    "runtime-main.js": "/meli-food-benefit/static/js/runtime-main.842ca248.js",
+    "runtime-main.js.map": "/meli-food-benefit/static/js/runtime-main.842ca248.js.map",
+    "static/js/2.c655a688.chunk.js": "/meli-food-benefit/static/js/2.c655a688.chunk.js",
+    "static/js/2.c655a688.chunk.js.map": "/meli-food-benefit/static/js/2.c655a688.chunk.js.map",
+    "index.html": "/meli-food-benefit/index.html",
+    "static/js/2.c655a688.chunk.js.LICENSE.txt": "/meli-food-benefit/static/js/2.c655a688.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.842ca248.js",
+    "static/js/2.c655a688.chunk.js",
+    "static/js/main.ad58346f.chunk.js"
+  ]
+}
